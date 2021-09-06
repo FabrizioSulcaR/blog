@@ -1,4 +1,4 @@
-title: FabrizioSulcaR||Blog
+title: FabrizioSulcaR|Blog
 description: > # this means to ignore newlines until "baseurl:"
   Este es el espacio en el que soltaré mis recuerdos más intimos. También soltaré algunas reflexiones y aprendizajes. Espero que disfruten su estadía por acá.
 permalink: ':title/'
@@ -7,9 +7,9 @@ url: "https://fabriziosulcar.github.io" # the base hostname & protocol for your 
 site-twitter: FabrizioSulcaR #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Fabrizio Sulca # add your name
+author: Fabrizio Sulca Reynaldo# add your name
 author-img: david-freeman.jpg # add your photo
-about-author: Estudiante de Economía UP. Interesado en automatización, ciencia de datos, políticas públicas y otras cosas de nerds. Siempre con ganas de aprender. # add description
+about-author: Estudiante de Economía UP Interesado en automatización, ciencia de datos, políticas públicas y otras cosas de nerds. Siempre con ganas de aprender. # add description
 social-twitter: FabrizioSulcaR # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: FabrizioSulcaR # add your Github handle
