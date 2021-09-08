@@ -3,15 +3,20 @@
 {% include head.html %}
 <body>
 
-  <div class="wrapper">
-    {{ content }}
-  </div>
+  
   
   <div class="loader-wrapper">
-    <span class="loader"><span class="loader-inner"></span></span>
+    <span class="loader">
+      
+      <div class="wrapper">
+        {{ content }}
+      </div>
+      {% include analytics.html %}
+            
+      <span class="loader-inner"></span></span>
   </div>
   
-  {% include analytics.html %}
+  
 
   <script>
     $(window).on("load",function(){
