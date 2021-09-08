@@ -6,9 +6,17 @@
   <div class="wrapper">
     {{ content }}
   </div>
+  
   <div class="loader-wrapper">
     <span class="loader"><span class="loader-inner"></span></span>
   </div>
+  
   {% include analytics.html %}
+
+  <script>
+    $(window).on("load",function(){
+      $(".loader-wrapper").fadeOut("slow");
+    });
+  </script>
 </body>
 </html>
