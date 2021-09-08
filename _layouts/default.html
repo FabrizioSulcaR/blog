@@ -3,25 +3,10 @@
 {% include head.html %}
 <body>
 
-  
-  
-  <div class="loader-wrapper">
-    <span class="loader">
-      
-      <div class="wrapper">
-        {{ content }}
-      </div>
-      {% include analytics.html %}
-            
-      <span class="loader-inner"></span></span>
+  <div class="wrapper">
+    {{ content }}
   </div>
   
-  
-
-  <script>
-    $(window).on("load",function(){
-      $(".loader-wrapper").fadeOut("slow");
-    });
-  </script>
+  {% include analytics.html %}
 </body>
 </html>
