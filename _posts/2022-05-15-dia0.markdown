@@ -1,0 +1,13 @@
+---
+layout: post
+title: Dia0
+date: 2022-05-15 00:00:00 +0500
+description: Dia cero o mejor conocido como el día en que Maia, Ro y yo seteamos The Rules of the Game. # Add post description (optional)
+img: #foto_grupal.jpg  Add image post (optional)
+tags: [Introducción] # add tag
+---
+Esta es una prueba de lo que, dentro de unos meses o años, será conocido como el inicio lo que espero sea una vida más productiva y llena de logros. Hoy 15/05/2022, luego de un intento fallido de *#Project50* con Ro (@RoTorresT), reintentaremos el challenge. 
+
+A diferencia del primer intento, ahora tenemos dos puntos a nuestro favor: metas más claras y realistas y más personas en el reto.
+
+Espero que al final de los 50 días Ro, Maia y yo ya hayamos construido los pilares que definirán nuestro futuro.
