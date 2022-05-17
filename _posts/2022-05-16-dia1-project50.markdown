@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Dia1:El día que todo inicio y reestructuré los microservicios y scripts de la vm :) - '#Project50'
+title: D1:El comienzo de la aventura - Project50
 date: 2022-05-16 22:25:00 +0500
-description: Reestructuración y entrega de algunas notas de parciales. # Add post description (optional)
+description: Reestructuración de los directorios y microservicios de ETDLP . # Add post description (optional)
 img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Project50, ETDLP]
 ---
-Arrancamos el día como si hubiesemos recibido una inyección de RedBull; en otros términos, llenos de energía y completamente dispuestos a completar la serie de reglas dispuestas: despertar temprano, morning routine, dedicar 30 minutos a aprender una habilidad, leer, comer de manera-dentro de lo posible- sana y llevar un registro de los 🍅.
+Arrancamos el día como si hubiesemos recibido una inyección de RedBull; en otros términos, llenos de energía y completamente dispuestos a completar la serie de reglas dispuestas: despertar temprano, morning routine, dedicar 30 minutos a aprender una habilidad, leer, comer de manera-dentro de lo posible- sana y llevar un registro de los 🍅. 
 
+## Daily:
+Tocó reestructurar directorios y microservicios de ETDLP.
 
 ## Aprendizajes del día
 1) Reestructurar está bien, pero haber pensado en la estructura de archivos y bases de datos antes de empezar a montar todo el proyecto está mejor.
-2) Scrapy es súper útil para scrapear y tumbarse páginas web. Lástima que Scrapy Cloud no tenga free tier. En fin, prometo encontrar alguna manera de hacerlo serverless desde gcrun.
+2) Scrapy es súper útil para scrapear y tumbarse páginas web. Lástima que Scrapy Cloud no tenga free tier. Igual prometo encontrar alguna manera de hacerlo serverless desde gcrun.
 3) Datastore==Firestore & CloudStorage!=Datastore
