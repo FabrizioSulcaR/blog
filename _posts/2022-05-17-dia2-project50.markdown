@@ -1,0 +1,17 @@
+---
+layout: post
+title: D2:El comienzo de la aventura - Project50
+date: 2022-05-17 22:25:00 +0500
+description: Webinar de USAID y tabla de control ETDLP. # Add post description (optional)
+img:  # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Project50, ETDLP]
+---
+
+## Daily:
+Desde cambiar un lugar de almacenamiento hasta terminar el día en un panel de USAID, bienvenidos al día2.
+
+## Aprendizajes del día
+1) CloudStorage.
+2) Trata de no venderte cada que metes la pata. Si es necesario, comunícalo; si no lo es, no.
+3) Las tablas de control deben de ser estandarizadas hacia todos los scrapers.
